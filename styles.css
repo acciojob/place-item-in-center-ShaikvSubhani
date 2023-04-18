@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+/* div{
+	border:1px solid;
+} */
+.item{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	
+}
